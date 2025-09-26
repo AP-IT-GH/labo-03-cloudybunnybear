@@ -1,0 +1,22 @@
+body {
+  font-size: 14px;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  font-style: weight;
+  color: brown;
+  text-transform: uppercase;
+}
+h3 {
+  font-size: 18px;
+  color: brown;
+  text-decoration: underline;
+}
+figcaption {
+  font-style: italic;
+  font-size: 11px;
+}
+img {
+  width: 250px;
+}

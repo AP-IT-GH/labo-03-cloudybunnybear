@@ -1,0 +1,21 @@
+* {
+  border: 1px solid;
+  color: black;
+}
+header,
+footer {
+  width: 100%;
+}
+section {
+  width: 62%;
+}
+aside {
+  width: 38%;
+}
+nav {
+  width: 50%;
+}
+article {
+  border-style: dotted;
+  color: red;
+}

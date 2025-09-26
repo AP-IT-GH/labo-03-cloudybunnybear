@@ -1,0 +1,73 @@
+h1 {
+  font-size: 20px;
+  background-color: lightslategray;
+  color: white;
+  width: 50%;
+}
+main {
+  color: white;
+}
+p {
+  padding: 5px;
+  margin: 0px;
+}
+.veertien {
+  background-color: blue;
+  width: 50%;
+}
+.derdtien {
+  background-color: rgb(31, 31, 253);
+  width: 50%;
+}
+.twaalf {
+  background-color: rgb(46, 46, 252);
+  width: 50%;
+}
+.elf {
+  background-color: rgb(68, 68, 250);
+  width: 50%;
+}
+.tien {
+  background-color: rgb(104, 104, 248);
+  width: 50%;
+}
+.negen {
+  background-color: rgb(109, 109, 247);
+  width: 50%;
+}
+.acht {
+  background-color: rgb(122, 122, 245);
+  width: 50%;
+}
+.zeven {
+  background-color: green;
+  width: 50%;
+}
+.zes {
+  background-color: rgb(247, 162, 221);
+  width: 50%;
+}
+.vijf {
+  background-color: rgb(245, 150, 216);
+  width: 50%;
+}
+.vier {
+  background-color: rgb(241, 110, 209);
+  width: 50%;
+}
+.drie {
+  background-color: rgb(250, 103, 189);
+  width: 50%;
+}
+.twee {
+  background-color: rgb(247, 90, 186);
+  width: 50%;
+}
+.een {
+  background-color: rgb(243, 58, 172);
+  width: 50%;
+}
+.null {
+  background-color: rgb(243, 18, 187);
+  width: 50%;
+}
